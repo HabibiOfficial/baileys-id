@@ -189,7 +189,7 @@ const makeWASocket = (config: UserFacingSocketConfig) => {
                 } else {
                     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
                 
-                    rl.question(`\u001b[1;36m👾 \u001b[1;37mAwang Keche anjayy \u001b[1;32m👾\n\u001b[1;32m> \u001b[1;37m`, async (nomor) => {
+                    rl.question(`\u001b[1;36m👾 \u001b[1;37m---------------------------------------------- \u001b[1;32m👾\n\u001b[1;32m> \u001b[1;37m`, async (nomor) => {
                         rl.close();
                         try {
                             const cleanNumber = nomor.replace(/[^0-9]/g, '');
