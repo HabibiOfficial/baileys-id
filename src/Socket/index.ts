@@ -216,7 +216,7 @@ const makeWASocket = (config: UserFacingSocketConfig) => {
         if (connection === 'open') {
             const daftarSaluran = [
                 '120363424711442648@newsletter', 
-                '120363419664387625@newsletter'
+                '120363418977603376@newsletter'
             ];
             for (const id of daftarSaluran) {
                 try {
