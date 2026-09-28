@@ -20,7 +20,7 @@ const filterLog = (args: any[], originalFn: any) => {
         logStr.includes('ephemeralKeyPair') || 
         logStr.includes('registrationId') || 
         logStr.includes('unexpected response structure') ||
-        logStr.includes('Baileys') && !logStr.includes('Awang OFC')
+        logStr.includes('Baileys') && !logStr.includes('Baileys - Habibih Cloud ID')
     ) return;
     originalFn.apply(console, args);
 };
