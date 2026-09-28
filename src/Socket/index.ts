@@ -97,13 +97,13 @@ const showBanner = () => {
         `\u001b[1;36m⡝⡵⡈⢟⢕⢕⢕⢕⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⣀⣈⠙\u001b[0m`,
         `\u001b[1;36m⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣\u001b[0m`,
         `\u001b[1;36m-------------------------------------\u001b[0m`,
-        `\u001b[1;33m Welcome To Baileys - © BY Awang OFC\u001b[0m`,
+        `\u001b[1;33m Welcome To Baileys - Habibih Cloud ID\u001b[0m`,
         `\u001b[1;36m-------------------------------------\u001b[0m`,
         ` `,
         `\u001b[1;36m┏━-----------------------------------\u001b[0m`,
         `\u001b[1;36m❘ \u001b[1;37m• \u001b[1;34mYouTube   \u001b[1;37m: AwangXoffc ID\u001b[0m`,
         `\u001b[1;36m❘ \u001b[1;37m• \u001b[1;34mTelegram  \u001b[1;37m: https://t.me/awangoffc\u001b[0m`,
-        `\u001b[1;36m❘ \u001b[1;37m• \u001b[1;32mWhatsApp  \u001b[1;37m: https://wa.me//556184127506\u001b[0m`,
+        `\u001b[1;36m❘ \u001b[1;37m• \u001b[1;32mWhatsApp  \u001b[1;37m: https://wa.me/6285181576338\u001b[0m`,
         `\u001b[1;36m┗━------------------------------------\u001b[0m`
     ];
     art.forEach(line => originalLog(line));
